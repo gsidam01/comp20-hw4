@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml_stylesheet.css"?>
+
+
+<!-- George Sidamon-Eristoff -->
+<!-- 11 February 2020 -->
+<!-- Tufts Comp20 -->
+
+<Cover_Band_Set_List>
+    <Song>
+        <Track>1</Track>
+        <Title>I'm a Believer</Title>
+        <Artist>The Monkees</Artist>
+        <Album>More of the Monkees</Album>
+        <Year>1967</Year>
+        <Genre>Rock</Genre>
+    </Song>
+    <Song>
+        <Track>2</Track>
+        <Title>Fire on the Mountain</Title>
+        <Artist>The Marshall Tucker Band</Artist>
+        <Album>Searchin' for a Rainbow</Album>
+        <Year>1975</Year>
+        <Genre>Rock</Genre>
+    </Song>
+    <Song>
+        <Track>3</Track>
+        <Title>Up On Cripple Creek</Title>
+        <Artist>The Band</Artist>
+        <Album>The Band</Album>
+        <Year>1969</Year>
+        <Genre>Rock</Genre>
+    </Song>
+    <Song>
+        <Track>4</Track>
+        <Title>Ramblin' Man</Title>
+        <Artist>The Allman Brothers Band</Artist>
+        <Album>Brothers and Sisters</Album>
+        <Year>1973</Year>
+        <Genre>Rock</Genre>
+    </Song>
+    <Song>
+        <Track>5</Track>
+        <Title>Free Bird</Title>
+        <Artist>Lynyrd Skynyrd</Artist>
+        <Album>(Pronounced 'Lĕh-'nérd 'Skin-'nérd)</Album>
+        <Year>1973</Year>
+        <Genre>Rock</Genre>
+    </Song>
+    <Song>
+        <Track>6</Track>
+        <Title>I Want You Back</Title>
+        <Artist>The Jackson 5</Artist>
+        <Album>I Want You Back</Album>
+        <Year>1969</Year>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song>
+        <Track>7</Track>
+        <Title>ABC</Title>
+        <Artist>The Jackson 5</Artist>
+        <Album>ABC</Album>
+        <Year>1970</Year>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song>
+        <Track>8</Track>
+        <Title>Pressure Drop</Title>
+        <Artist>Toots + The Maytals</Artist>
+        <Album>Sweet and Dandy</Album>
+        <Year>1968</Year>
+        <Genre>Reggae</Genre>
+    </Song>
+    <Song>
+        <Track>9</Track>
+        <Title>Wildfire</Title>
+        <Artist>John Mayer</Artist>
+        <Album>Paradise Valley</Album>
+        <Year>2013</Year>
+        <Genre>Country</Genre>
+    </Song>
+    <Song>
+        <Track>10</Track>
+        <Title>Walking On Sunshine</Title>
+        <Artist>Katrina + The Waves</Artist>
+        <Album>Walking on Sunshine</Album>
+        <Year>1985</Year>
+        <Genre>Pop</Genre>
+    </Song>
+    <Song>
+        <Track>11</Track>
+        <Title>A Boy Named Sue</Title>
+        <Artist>Johnny Cash</Artist>
+        <Album>At San Quentin</Album>
+        <Year>1969</Year>
+        <Genre>Country</Genre>
+    </Song>
+    <Song>
+        <Track>12</Track>
+        <Title>Western Skies</Title>
+        <Artist>Hot Rize</Artist>
+        <Album>When I'm Free</Album>
+        <Year>2014</Year>
+        <Genre>Bluegrass</Genre>
+    </Song>
+</Cover_Band_Set_List>

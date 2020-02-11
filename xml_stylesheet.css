@@ -1,0 +1,125 @@
+/*
+ * George Sidamon-Eristoff
+ * 11 February 2020
+ * Tufts Comp20
+ */
+
+/* Cover Band Set List */
+Cover_Band_Set_List:before {
+    content: "Here is a set list for our (fictional) cover band!";
+    display: block;
+    margin-bottom: 15px;
+    padding: 15px 0px;
+    border-bottom-style: double;
+    border-bottom-color: #000000;
+    text-align: center;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+    width: 100%;
+}
+
+Cover_Band_Set_List {
+    display: block;
+    font-family: georgia,times,arial;
+    font-size: 25px;
+    text-indent: 5px;
+}
+
+Cover_Band_Set_List:after {
+    display: block;
+    padding-top: 10px;
+    text-align: center;
+    content: "Created by George Sidamon-Eristoff, February 2020";
+    font-size: 50%;
+}
+
+/* Song */
+Song {
+    position: relative;
+    display: inline-block;
+    width: 225px;
+    height: 215px;
+    border-style: double;
+    border-color: #00aa00;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+Song:after {
+    content: "\0013";
+}
+
+
+/* Track Number*/
+Track:after {
+    content: ". ";
+}
+
+Track {
+    position:relative;
+    display: block;
+}
+
+
+/* Title */
+Title {
+    display: inline-block;
+    font-weight: bold;
+    color: #0000ff;
+}
+
+
+/* Artist */
+Artist:before {
+    content: "by ";
+}
+
+Artist {
+    text-indent: 0px;
+    color: #ff0000;
+    display: inline-block;
+    font-style: italic;
+    font-size: 90%;
+}
+
+
+/* Album */
+Album:before {
+    content: "from the album: ";
+    font-style: normal;
+}
+
+Album {
+    font-size: 70%;
+    text-indent: 35px;
+    font-style: italic;
+}
+
+
+/* Year */
+Year:before {
+    content: "(";
+}
+
+Year {
+    line-height: 15px;
+    font-size: 70%;
+    text-indent: 35px;
+}
+
+Year:after {
+    content: ",";
+}
+
+
+/* Genre */
+Genre{
+    line-height: 15px;
+    font-size: 70%;
+}
+Genre:after {
+    content: ")";
+}
